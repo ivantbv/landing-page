@@ -10,6 +10,10 @@ footer {
     background-color: #1F2937;
 }
 
+header {
+    padding-bottom: 100px;
+}
+
 .header-wrapper {
     margin: 0 120px 0 120px;
 }
@@ -17,6 +21,10 @@ footer {
 .header-logo {
     color: #F9FAF8;
     font-size: 24px;
+}
+
+.header-main {
+    display: flex;
 }
 .header-title{
     font-size: 48px;
@@ -38,6 +46,8 @@ footer {
 
 .header-text {
     width: 420px;
+    display: flex;
+    flex-direction: column;
 }
 
 .logo-links {
@@ -55,7 +65,23 @@ footer {
 }
 
 .header-signup {
+    width: 138px;
     background-color: #3882f6;
+    padding: 8px 29px 8px 29px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    font-weight: 900;
+    font-size: inherit;
+    margin-top: 10px;
+}
+
+.header-img {
+    width: 508px;
+    height: 255px;
+
+    padding-left: 81px;
+    padding-top: 85px;
 }
 
 footer {
