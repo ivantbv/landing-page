@@ -122,6 +122,31 @@ header {
     border-radius: 10px;
 }
 
+.main-quote {
+    background-color: #E5E7EB;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 266px;
+    padding-right: 267px;
+    justify-content: center;
+}
+
+.text-quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    margin-bottom: 0;
+}
+
+.author-quote {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0;
+    font-weight: 900;
+    font-size: 18px;
+}
+
 footer {
     margin-bottom: 0px;
 }
