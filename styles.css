@@ -150,8 +150,8 @@ header {
 .cta {
     display: flex;
     justify-content: center;
-    margin-top: 55px;
-    margin-bottom: 55px;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 
 .cta-container {
@@ -192,4 +192,14 @@ header {
 
 footer {
     margin-bottom: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.footer-container {
+    font-family: arial;
+    color: #F9FAF8;
 }
