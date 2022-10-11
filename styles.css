@@ -122,6 +122,12 @@ header {
     border-radius: 10px;
 }
 
+.main-image img {
+    width:100%;
+    height:100%;
+    border-radius: 5px;
+}
+
 .main-quote {
     background-color: #E5E7EB;
     height: 340px;
