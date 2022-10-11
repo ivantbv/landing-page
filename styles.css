@@ -85,7 +85,7 @@ header {
     margin-left: 72px;
     margin-top: 85px;
     border-radius: 14px;
-    border: 3px solid rgb(204 173 211);
+    border: 3px solid rgba(194, 182, 197, 0.692);
 }
 
 .content-title {
