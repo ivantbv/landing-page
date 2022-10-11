@@ -147,6 +147,49 @@ header {
     font-size: 18px;
 }
 
+.cta {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+.cta-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 850px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.cta-title {
+    color: #F9FAF8;
+    font-weight: 900;
+    font-family: arial;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.cta-text {
+    color: #F9FAF8;
+    font-family: arial;
+    font-weight: 600;
+    margin-top: 4px;
+}
+
+.cta-button {
+    background-color: #3882f6;
+    padding: 8px 29px 8px 29px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 900;
+    font-size: inherit;
+    border: solid 2px white;
+}
+
 footer {
     margin-bottom: 0px;
 }
